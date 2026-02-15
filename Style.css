@@ -1,0 +1,378 @@
+*{
+    font-family: "Rubik", sans-serif;
+}
+.الموقع-قيد-التطوير {
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.521);
+    position: fixed;
+    margin-right: 20px;
+}
+
+html {
+    background: #0e1323;
+}   
+
+header{
+    background: rgb(26 36 80);
+    padding: 100px 50px 50px ;
+    border-radius: 20px;
+    color: white;
+    height: 350px;
+}
+
+.D-الصورة-الشخصية {
+    float: left;
+    margin-top: -200px;
+    margin-left: 100px;
+}
+
+.I-الصورة-الشخصية {
+    border-radius: 200px;
+    transition: 0.3s;
+}
+
+.I-الصورة-الشخصية:hover {
+    box-shadow: 0px 0px 10px white;
+}
+
+.S-مرحبا {
+    font-size: 40px;
+}
+
+.S-انا-محمد-شاهين {
+    font-size: 30px;
+}
+
+.S-Web-Developer {
+    color: rgb(0, 110, 255);
+    font-size: 25px;
+}
+
+.S-نص-تعريفي {
+    font-size: 20px;
+}
+
+.B-شاهد-اعمالي{
+    width: 170px;
+    height: 50px;
+    margin-left: 5px;
+    border: solid rgb(0, 132, 255) 2px;
+    border-radius: 10px;
+    font-size: 23px;
+    cursor: pointer;
+    background: rgb(22, 30, 68);
+    color: white;
+    transition: 0.3s;
+}
+
+.B-شاهد-اعمالي:hover{
+    width: 190px;
+    height: 60px;
+    border: solid rgb(0, 132, 255) 4px;
+    box-shadow: 0px 0px 5px white;
+}
+
+.B-تواصل-معي {
+    width: 170px;
+    height: 50px;
+    border: hidden ;
+    border-radius: 10px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    font-size: 23px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.B-تواصل-معي:hover , .B-Free-Chat:hover{
+    box-shadow: 0px 0px 5px white;
+    width: 190px;
+    height: 60px;
+}
+
+.P-عني {
+    margin-top: 50px;
+    display: inline;
+}
+
+.D-button {
+    display: inline;
+}
+
+.D-hr{
+    clear: both;
+    height: 50px;
+}
+
+.AR-من_انا{
+    width: 40%;
+    background: rgb(26 36 61);
+    padding: 10px;
+    border-radius: 20px;
+    float: right;
+    height: 250px;
+    color : white;
+    margin-right: 5%;
+    height: 350px;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.bdi-html {
+    color: orange;
+}
+
+.bdi-css {
+    color: rgb(0, 81, 255);
+}
+
+.bdi-js {
+    color: yellow;
+}
+
+.h2-من-انا {
+    text-align: center;
+}
+
+.Ar-الاحصائيات{
+    width: 40%;
+    background: rgb(26 36 61);
+    padding: 10px;
+    border-radius: 20px;
+    float: left;
+    height: 250px;
+    color : white;
+    text-align: center;
+    margin-left: 5%;
+    height: 350px;
+    transition: 0.3s;
+}
+
+.h2-الاحصائيات {
+    font-size: 35px;
+}
+
+.S-عنوان-سنة-الخبرة {
+    font-size: 40px;
+    display: block;
+}
+
+
+.S-سنة-الخبرة {
+    font-size: 30px;
+    display: block;
+}
+
+.D-سنة-الخبرة , .D-مشروع-منجز {
+    background: rgb(35, 49, 83);
+    width: 150px;
+    height: 100px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.2s;
+}
+
+.D-سنة-الخبرة:hover , .D-مشروع-منجز:hover {
+    box-shadow: 0px 0px 5px white;
+}
+
+.S-عنوان-مشروع-منجز {
+    font-size: 40px;
+    display: block;
+}
+
+.S-مشروع-منجز {
+    font-size: 25px;
+}
+
+.AR-مهارات-تقنية {
+    width: 40%;
+    background: rgb(26 36 61);
+    padding: 10px;
+    border-radius: 20px;
+    float: right;
+    height: 450px;
+    color : white;
+    margin-right: 5%;
+    height: 1000px;
+    transition: 0.3s;
+}
+
+.AR-المشاريع {
+    width: 40%;
+    background: rgb(26 36 61);
+    padding: 10px;
+    border-radius: 20px;
+    float: left;
+    color : white;
+    margin-left: 5%;
+    height: 1000px;
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+.h2-مهارات-تقنية {
+    text-align: center;
+    font-size: 30px;
+}
+
+.h3-HTML , .h3-js , .h3-css , .h3-githup , .h3-Vscode{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.فراغ-HTML , .فراغ-css , .D-فراغ-js , .D-فراغ-githup , .D-فراغ-Vscode{
+    width: 500px;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    background: rgb(34, 47, 80);
+}
+
+.D-التقدم-HTML {
+    background: linear-gradient( to left , rgb(255, 217, 0) , rgb(255, 94, 0));
+    width: 98%;
+    height: 25px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+.D-التقدم-css {
+    background: linear-gradient( to left , rgb(0, 174, 255) , rgb(0, 26, 255));
+    width: 80%;
+    height: 25px;
+    border-radius: 20px;
+}
+.S-80-css , .S-70-Vscode{
+    display: block;
+    float: right;
+    margin-right: 224px;
+    font-size: 20px;
+    color: black;
+}
+
+.D-التقدم-js {
+    background: yellow;
+    width: 10%;
+    height: 25px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.S-10-JS , .S-40-GitHup{
+    display: block;
+    float: right;
+    margin-right: 226px;
+    font-size: 20px;
+}
+
+.D-التقدم-githup {
+    background: linear-gradient( to left , rgb(2, 0, 114) , rgb(10, 7, 43));
+    width: 40%;
+    height: 25px;
+    border-radius: 20px;
+}
+
+.D-التقدم-Vscode {
+    background: linear-gradient( to left , rgb(0, 174, 255) , rgb(0, 26, 255));
+    width: 70%;
+    height: 25px;
+    border-radius: 20px;
+}
+    
+.h2-المشاريع {
+    text-align: center;
+    font-size: 35px;
+}
+
+.h3-Free-Chat {
+    text-align: center;
+    font-size: 25px;
+}
+
+.h4-ميزات-Free-Chat {
+    font-size: 30px;
+}
+
+.ul-Free-Chat {
+    font-size: 23px;
+}
+
+.I-Free-Chat {
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.B-Free-Chat {
+    width: 170px;
+    height: 50px;
+    border: hidden ;
+    border-radius: 10px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    font-size: 23px;
+    cursor: pointer;
+    transition: 0.3s;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    background: rgb(26 36 80);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    height: 200px;
+    color : white;
+    font-size: 20px;
+    height: 300px;
+}
+
+.D-M {
+    width: 600px;
+    height: 1px;
+    float: left;
+}
+
+.D-Whats-C{
+    width: 100px;
+    height: 50px;
+    background-image: url(2.png);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    float: left;
+    cursor: pointer;
+}
+
+.D-Email-C {
+    width: 100px;
+    height: 50px;
+    background-image: url(3.png);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.D-githup-C {
+    width: 100px;
+    height: 50px;
+    background-image: url(4.png);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    float: left; 
+    cursor: pointer;
+}
+
+.AR-من_انا:hover , .Ar-الاحصائيات:hover , .AR-مهارات-تقنية:hover , .AR-المشاريع:hover {
+    box-shadow: 0px 0px 10px white;
+}
