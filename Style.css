@@ -343,34 +343,46 @@ footer {
 }
 
 .D-Whats-C{
-    width: 100px;
+    width: 50px;
     height: 50px;
     background-image: url(2.png);
     background-size: 50px;
     background-repeat: no-repeat;
     float: left;
     cursor: pointer;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .D-Email-C {
-    width: 100px;
+    width: 50px;
     height: 50px;
     background-image: url(3.png);
     background-size: 50px;
     background-repeat: no-repeat;
-    float: left;
+    float: right;
     margin-top: 5px;
     cursor: pointer;
 }
 
 .D-githup-C {
-    width: 100px;
+    width: 50px;
     height: 50px;
     background-image: url(4.png);
     background-size: 50px;
     background-repeat: no-repeat;
-    float: left; 
+
     cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.D-تواصل {
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .AR-من_انا:hover , .Ar-الاحصائيات:hover , .AR-مهارات-تقنية:hover , .AR-المشاريع:hover {
