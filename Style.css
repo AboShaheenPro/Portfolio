@@ -1,6 +1,7 @@
-*{
+* {
     font-family: "Rubik", sans-serif;
 }
+
 .الموقع-قيد-التطوير {
     font-size: 17px;
     color: rgba(255, 255, 255, 0.521);
@@ -52,7 +53,7 @@ header{
     font-size: 20px;
 }
 
-.B-شاهد-اعمالي{
+.B-شاهد-اعمالي {
     width: 170px;
     height: 50px;
     margin-left: 5px;
@@ -84,7 +85,7 @@ header{
     transition: 0.2s;
 }
 
-.B-تواصل-معي:hover , .B-Free-Chat:hover{
+.B-تواصل-معي:hover , .B-Free-Chat:hover {
     box-shadow: 0px 0px 10px white;
     width: 190px;
     height: 60px;
@@ -99,12 +100,12 @@ header{
     display: inline;
 }
 
-.D-hr{
+.D-hr {
     clear: both;
     height: 50px;
 }
 
-.AR-من_انا{
+.AR-من_انا {
     width: 40%;
     background: rgb(26 36 61);
     padding: 10px;
@@ -117,6 +118,7 @@ header{
     font-size: 20px;
     transition: 0.3s;
 }
+
 .bdi-html {
     color: orange;
 }
@@ -133,7 +135,7 @@ header{
     text-align: center;
 }
 
-.Ar-الاحصائيات{
+.Ar-الاحصائيات {
     width: 40%;
     background: rgb(26 36 61);
     padding: 10px;
@@ -155,7 +157,6 @@ header{
     font-size: 40px;
     display: block;
 }
-
 
 .S-سنة-الخبرة {
     font-size: 30px;
@@ -217,13 +218,12 @@ header{
     font-size: 30px;
 }
 
-.h3-HTML , .h3-js , .h3-css , .h3-githup , .h3-Vscode{
+.h3-HTML , .h3-js , .h3-css , .h3-githup , .h3-Vscode {
     text-align: center;
     font-size: 25px;
 }
 
-
-.فراغ-HTML , .فراغ-css , .D-فراغ-js , .D-فراغ-githup , .D-فراغ-Vscode{
+.فراغ-HTML , .فراغ-css , .D-فراغ-js , .D-فراغ-githup , .D-فراغ-Vscode {
     width: 500px;
     height: 25px;
     margin-left: auto;
@@ -248,7 +248,8 @@ header{
     height: 25px;
     border-radius: 20px;
 }
-.S-80-css , .S-70-Vscode{
+
+.S-80-css , .S-70-Vscode {
     display: block;
     float: right;
     margin-right: 224px;
@@ -264,7 +265,7 @@ header{
     font-size: 20px;
 }
 
-.S-10-JS , .S-40-GitHup{
+.S-10-JS , .S-40-GitHup {
     display: block;
     float: right;
     margin-right: 226px;
@@ -348,7 +349,7 @@ footer {
     float: left;
 }
 
-.D-Whats-C{
+.D-Whats-C {
     width: 50px;
     height: 50px;
     background-image: url(img/2.png);
@@ -390,7 +391,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
-
 .AR-من_انا:hover , .Ar-الاحصائيات:hover , .AR-مهارات-تقنية:hover , .AR-المشاريع:hover {
     box-shadow: 0px 0px 20px white;
 }
+
