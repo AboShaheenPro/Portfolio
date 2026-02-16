@@ -9,7 +9,7 @@
 }
 
 html {
-    background: #0e1323;
+    background-image: linear-gradient(to left, #20217e, #4651d3);
 }   
 
 header{
@@ -32,7 +32,7 @@ header{
 }
 
 .I-الصورة-الشخصية:hover {
-    box-shadow: 0px 0px 10px white;
+    box-shadow: 0px 0px 20px white;
 }
 
 .S-مرحبا {
@@ -62,14 +62,14 @@ header{
     cursor: pointer;
     background: rgb(22, 30, 68);
     color: white;
-    transition: 0.3s;
+    transition: 0.2s;
 }
 
 .B-شاهد-اعمالي:hover{
     width: 190px;
     height: 60px;
     border: solid rgb(0, 132, 255) 4px;
-    box-shadow: 0px 0px 5px white;
+    box-shadow: 0px 0px 10px white;
 }
 
 .B-تواصل-معي {
@@ -81,11 +81,11 @@ header{
     color: white;
     font-size: 23px;
     cursor: pointer;
-    transition: 0.3s;
+    transition: 0.2s;
 }
 
 .B-تواصل-معي:hover , .B-Free-Chat:hover{
-    box-shadow: 0px 0px 5px white;
+    box-shadow: 0px 0px 10px white;
     width: 190px;
     height: 60px;
 }
@@ -173,7 +173,8 @@ header{
 }
 
 .D-سنة-الخبرة:hover , .D-مشروع-منجز:hover {
-    box-shadow: 0px 0px 5px white;
+    box-shadow: 0px 0px 10px white;
+    width: 170px;
 }
 
 .S-عنوان-مشروع-منجز {
@@ -307,6 +308,11 @@ header{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    transition: 0.3s;
+}
+
+.I-Free-Chat:hover {
+    box-shadow: 0px 0px 10px white;
 }
 
 .B-Free-Chat {
@@ -386,5 +392,5 @@ footer {
 }
 
 .AR-من_انا:hover , .Ar-الاحصائيات:hover , .AR-مهارات-تقنية:hover , .AR-المشاريع:hover {
-    box-shadow: 0px 0px 10px white;
+    box-shadow: 0px 0px 20px white;
 }
