@@ -345,7 +345,7 @@ footer {
 .D-Whats-C{
     width: 50px;
     height: 50px;
-    background-image: url(2.png);
+    background-image: url(img/2.png);
     background-size: 50px;
     background-repeat: no-repeat;
     float: left;
@@ -358,7 +358,7 @@ footer {
 .D-Email-C {
     width: 50px;
     height: 50px;
-    background-image: url(3.png);
+    background-image: url(img/3.png);
     background-size: 50px;
     background-repeat: no-repeat;
     float: right;
@@ -369,7 +369,7 @@ footer {
 .D-githup-C {
     width: 50px;
     height: 50px;
-    background-image: url(4.png);
+    background-image: url(img/4.png);
     background-size: 50px;
     background-repeat: no-repeat;
 
